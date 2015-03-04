@@ -1,7 +1,7 @@
 """
 COUNTING THE DAYS UNTIL...
 
-Challenge #175 Bogosort
+Challenge #175 [Easy] Bogosort
 
 A bogo sort is a purposefully inefficient algorithm for sorting a sequence. Today we will be using this for strings to test for equality.
 
