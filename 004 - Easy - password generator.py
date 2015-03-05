@@ -1,5 +1,5 @@
 """
-Challenge #4  [Easy] Who am I?.
+Challenge #4  [Easy] Password Generator.
 
 Description
 

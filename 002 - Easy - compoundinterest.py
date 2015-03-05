@@ -1,5 +1,5 @@
 """
-Challenge #1  [Easy] Who am I?.
+Challenge #1  [Easy] Compound Interest.
 
 Description
 
