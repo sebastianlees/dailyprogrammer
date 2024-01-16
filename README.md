@@ -1,8 +1,4 @@
 
-## PLEASE NOTE: This project is no longer maintained.
+## Daily Programmer Solutions
 
-Daily Programmer
-
-My solutions to Daily Programmer problems from http://reddit.com/r/dailyprogrammer.
-
-Use at your own risk!
+My solutions to Daily Programmer problems from http://reddit.com/r/dailyprogrammer. I do these when I'm bored and to stay sharp.
